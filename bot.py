@@ -1,4 +1,4 @@
-import telegram.ext
+import telegram
 from process import ask, append_interaction_to_chat_log
 import logging, os
 
